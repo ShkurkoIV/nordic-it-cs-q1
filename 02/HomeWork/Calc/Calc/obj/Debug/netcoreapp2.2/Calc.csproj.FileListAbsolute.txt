@@ -1,0 +1,11 @@
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\bin\Debug\netcoreapp2.2\Calc.deps.json
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\bin\Debug\netcoreapp2.2\Calc.runtimeconfig.json
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\bin\Debug\netcoreapp2.2\Calc.runtimeconfig.dev.json
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\bin\Debug\netcoreapp2.2\Calc.dll
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\bin\Debug\netcoreapp2.2\Calc.pdb
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.csprojAssemblyReference.cache
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.csproj.CoreCompileInputs.cache
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.AssemblyInfoInputs.cache
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.AssemblyInfo.cs
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.dll
+D:\CSharp\nordic-it-cs-q1\02\HomeWork\Calc\Calc\obj\Debug\netcoreapp2.2\Calc.pdb

@@ -6,7 +6,7 @@ namespace Calc
     {
         static void Main(string[] args)
         {
-            bool   result = false;
+            bool result = false;
             double number1 = 0;
             double number2 = 0;
             double operationResult = 0;
@@ -43,7 +43,7 @@ namespace Calc
             if (operation == "+")
             {
                 operationResult = number1 + number2;
-             }
+            }
             else if (operation == "-")
             {
                 operationResult = number1 - number2;
@@ -54,7 +54,7 @@ namespace Calc
             }
             else if (operation == "/")
             {
-                operationResult = number1 / number2;
+                operationResult = number2 == 0 ? 0 :  number1 / number2;
             }
             else if (operation == "%")
             {

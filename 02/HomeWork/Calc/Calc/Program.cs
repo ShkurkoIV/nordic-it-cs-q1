@@ -54,11 +54,11 @@ namespace Calc
             }
             else if (operation == "/")
             {
-                operationResult = number2 == 0 ? 0 :  number1 / number2;
+                operationResult = number2 == 0 ? 0 : number1 / number2;
             }
             else if (operation == "%")
             {
-                operationResult = number1 % number2;
+                operationResult = number2 == 0 ? 0 : number1 % number2;
             }
             else if (operation == "^")
             {

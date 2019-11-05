@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Inordic\\Source\\Repos\\ShkurkoIV\\nordic-it-cs-q1\\02\\HomeWork\\Calc\\Calc\\Calc.csproj",
-      "projectName": "Calc",
-      "projectPath": "C:\\Users\\Inordic\\Source\\Repos\\ShkurkoIV\\nordic-it-cs-q1\\02\\HomeWork\\Calc\\Calc\\Calc.csproj",
+      "projectUniqueName": "C:\\Users\\Inordic\\source\\repos\\ShkurkoIV\\nordic-it-cs-q1\\03\\ClassWork\\ClassWork\\ClassWork.csproj",
+      "projectName": "ClassWork",
+      "projectPath": "C:\\Users\\Inordic\\source\\repos\\ShkurkoIV\\nordic-it-cs-q1\\03\\ClassWork\\ClassWork\\ClassWork.csproj",
       "packagesPath": "C:\\Users\\Inordic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Inordic\\Source\\Repos\\ShkurkoIV\\nordic-it-cs-q1\\02\\HomeWork\\Calc\\Calc\\obj\\",
+      "outputPath": "C:\\Users\\Inordic\\source\\repos\\ShkurkoIV\\nordic-it-cs-q1\\03\\ClassWork\\ClassWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\bin\Debug\netcoreapp2.2\ClassWork.deps.json
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\bin\Debug\netcoreapp2.2\ClassWork.runtimeconfig.json
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\bin\Debug\netcoreapp2.2\ClassWork.runtimeconfig.dev.json
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\bin\Debug\netcoreapp2.2\ClassWork.dll
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\bin\Debug\netcoreapp2.2\ClassWork.pdb
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.csprojAssemblyReference.cache
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.AssemblyInfo.cs
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.dll
+C:\Users\Inordic\source\repos\ShkurkoIV\nordic-it-cs-q1\04\ClassWork\ClassWork\obj\Debug\netcoreapp2.2\ClassWork.pdb

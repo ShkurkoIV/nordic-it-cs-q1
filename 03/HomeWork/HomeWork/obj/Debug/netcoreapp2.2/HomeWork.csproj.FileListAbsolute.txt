@@ -1,0 +1,11 @@
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.csprojAssemblyReference.cache
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.csproj.CoreCompileInputs.cache
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.AssemblyInfoInputs.cache
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.AssemblyInfo.cs
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.deps.json
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.runtimeconfig.json
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.runtimeconfig.dev.json
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.dll
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.pdb
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.dll
+D:\CSharp\nordic-it-cs-q1\03\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.pdb

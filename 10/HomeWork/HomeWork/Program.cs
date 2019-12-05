@@ -15,6 +15,8 @@ namespace HomeWork
             mlw.LogInfo("Инфо");
             mlw.LogWarning("Предупреждение");
 
-        }
+            
+
+           }
     }
 }

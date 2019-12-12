@@ -38,7 +38,7 @@ namespace Reminder.Storage.InMemory.Tests
             result.Add(reminders[0]);
             result.Add(reminders[1]);
             var expect = storage.GetList();
-            CollectionAssert.AreEquivalent(expect, result);
+            CollectionAssert.AreEquivalent(expect, result); 
 
         }
     }
